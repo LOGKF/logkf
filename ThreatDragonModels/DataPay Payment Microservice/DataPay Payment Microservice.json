@@ -1,0 +1,28 @@
+{
+  "version": "2.6.2",
+  "release_version": "1.0",
+  "released_at": "",
+  "summary": {
+    "title": "DataPay Payment Microservice",
+    "owner": "LOGO",
+    "description": "Платёжный микросервис финтех-компании DataPay. Обрабатывает ПДн пользователей, данные платёжных карт (PCI DSS) и исходный код API.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Payment DFD",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
